@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 apmfpamdmaoimpiam
 
+=======
+mcoancs
+>>>>>>> 55e9f2dafa2d1fcd0d989103bbad0b343f2817fa
